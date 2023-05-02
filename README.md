@@ -13,9 +13,9 @@ The industrial bakery required a solution to detect early signs of failure in th
 
 ## Solution
 
-Our team developed an anomaly detection software that utilized the data collected from the laser sensors to identify abnormal behavior in the kneading machine. The software was trained on a large dataset of kneading machine operation logs and dough thickness measurements to identify normal patterns of operation. 
+Our team developed an anomaly detection software that utilized the data collected from the laser sensors to identify abnormal behavior in the kneading machine. The software utilizes a large dataset of kneading machine operation logs and dough thickness measurements to identify normal patterns of operation. 
 
-We then used this model to identify and classify recurring defect classes and detect specific point anomalies in the kneading machine. Our software used advanced machine learning algorithms to identify subtle changes in the dough thickness measurements that could indicate potential problems with the machine.
+We then used this model to identify and classify recurring defect classes and detect specific point anomalies in the kneading machine. Our software used advanced statistical methods to identify subtle changes in the dough thickness measurements that could indicate potential problems with the machine.
 
 ## Persistent Anomalies
 
